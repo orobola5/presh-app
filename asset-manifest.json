@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/presh-app/static/css/main.073c9b0a.css",
+    "main.js": "/presh-app/static/js/main.e6954c01.js",
+    "static/js/787.8678063a.chunk.js": "/presh-app/static/js/787.8678063a.chunk.js",
+    "static/media/logo.svg": "/presh-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/presh-app/index.html",
+    "main.073c9b0a.css.map": "/presh-app/static/css/main.073c9b0a.css.map",
+    "main.e6954c01.js.map": "/presh-app/static/js/main.e6954c01.js.map",
+    "787.8678063a.chunk.js.map": "/presh-app/static/js/787.8678063a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e6954c01.js"
+  ]
+}
